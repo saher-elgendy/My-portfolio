@@ -86,6 +86,7 @@
   border: 2px solid #eee;
   width: 50%;
   max-width: 250px;
+  min-width: 150px;
   margin: auto;
   border: none;
   color: white;
@@ -126,6 +127,7 @@
   width: 50%;
   margin: auto;
   max-width: 250px;
+  min-width: 150px;
   border: none;
   color: white;
   font-size: 100%;
