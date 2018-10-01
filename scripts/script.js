@@ -4,7 +4,7 @@ const potfolio_but = document.getElementById("bottom_button");
 
 const scrollToAbout = () =>{
  window.scroll({
-   top: 910, 
+   top: 900, 
    left: 0, 
    behavior: 'smooth'
  });   
@@ -13,7 +13,7 @@ const scrollToAbout = () =>{
 
 const scrollToPortfolio = () =>{
   window.scroll({
-   top:1170,
+   top:1180,
    left:0,
    behavior:'smooth'
   });
