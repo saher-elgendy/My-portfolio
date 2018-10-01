@@ -167,15 +167,18 @@
 .menu-list {
   display: flex;
   font-size: 1.2em;
-  color: white;
   margin: auto;
+}
+
+..menu-list a {
+  color: white;
 }
 
 .menu-list a:visited {
   color: white;
 }
 
-.list {
+.nav-list-item {
 	list-style-type:none;
 	padding: 20px;
 }
@@ -363,10 +366,8 @@ a:link {
   font-size: 1.25em;
   font-weight: 300;
 }
-
-.gmail {
+.contact-link {
   color: red;
-  display: block;
 }
 
 .sub-footer {
