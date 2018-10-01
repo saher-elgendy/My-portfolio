@@ -384,9 +384,17 @@ a:link {
   margin: 10% auto;
 }
 
+.sub-footer-cont p {
+  text-align: center;
+}
+
 .contact {
   font-size: 1.5em;
   padding: 1em;
+}
+
+.contact-icons {
+  text-align: center;
 }
 
 @media screen and (max-width: 550px) {
