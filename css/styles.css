@@ -213,7 +213,7 @@ a:link {
   margin-bottom: 50px;
 }
 
-.my-portfolio {
+#my-portfolio {
   text-align: center;
   border-bottom: 1px solid #ece5e5;
  
@@ -334,7 +334,7 @@ a:link {
   font-size: 0.6em;
 }
 
-.footer {
+#footer {
   display: flex;
   flex-direction: column;
   height: 100vh;
