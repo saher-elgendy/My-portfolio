@@ -371,6 +371,10 @@ a:link {
   color: red;
 }
 
+.contact-link:hover {
+  color: #03b9ff ;/*#03b9ff#03b9ff*/
+}
+
 .sub-footer {
   width: 100%;
   height: 35%;
