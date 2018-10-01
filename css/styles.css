@@ -364,8 +364,9 @@ a:link {
   font-weight: 300;
 }
 
-.my-email {
+.gmail {
   color: red;
+  display: block;
 }
 
 .sub-footer {
