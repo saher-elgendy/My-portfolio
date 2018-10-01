@@ -84,14 +84,15 @@
   color: white;
   font-size: 100%;
   font-family: "Montserrat";
-  padding: 1.5em;
+  padding: 2em;
   background-repeat: no-repeat;
   outline: none;
   font-weight: 300;
+  cursor: pointer;
 }
 
 #top-button span {
-  cursor: pointer;
+ 
   display: inline-block;
   position: relative;
   transition: 0.5s;
@@ -124,16 +125,16 @@
   color: white;
   font-size: 100%;s
   font-family: "Montserrat", sans-serif;
-  padding: 1.5em;
+  padding: 2em;
   margin-top: 10px;
   background-color: #ffcb03;
   outline: none;
   font-weight: 300;
+  cursor: pointer;
 }
 
 
 #bottom-button span {
-  cursor: pointer;
   display: inline-block;
   position: relative;
   transition: 0.5s;
